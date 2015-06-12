@@ -1,0 +1,7 @@
+D:\食品安全检测\食品安全检测7-30\FoodSVN\FoodSVN\bin\Release\FoodSVN.exe
+D:\食品安全检测\食品安全检测7-30\FoodSVN\FoodSVN\bin\Release\DotRas.dll
+D:\食品安全检测\食品安全检测7-30\FoodSVN\FoodSVN\bin\Release\DotRas.xml
+D:\食品安全检测\食品安全检测7-30\FoodSVN\FoodSVN\obj\x86\Release\ResolveAssemblyReference.cache
+D:\食品安全检测\食品安全检测7-30\FoodSVN\FoodSVN\obj\x86\Release\FoodSVN.exe
+D:\食品安全检测\食品安全检测7-30\FoodSVN\FoodSVN\obj\x86\Release\FoodSVN.pdb
+D:\食品安全检测\食品安全检测7-30\FoodSVN\FoodSVN\bin\Release\FoodSVN.pdb

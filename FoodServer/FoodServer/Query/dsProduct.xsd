@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsProduct" targetNamespace="http://tempuri.org/dsProduct.xsd" xmlns:mstns="http://tempuri.org/dsProduct.xsd" xmlns="http://tempuri.org/dsProduct.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsProduct" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsProduct" msprop:Generator_UserDSName="dsProduct">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtProductList" msprop:Generator_TableClassName="dtProductListDataTable" msprop:Generator_TableVarName="tabledtProductList" msprop:Generator_TablePropName="dtProductList" msprop:Generator_RowDeletingName="dtProductListRowDeleting" msprop:Generator_UserTableName="dtProductList" msprop:Generator_RowChangingName="dtProductListRowChanging" msprop:Generator_RowEvHandlerName="dtProductListRowChangeEventHandler" msprop:Generator_RowDeletedName="dtProductListRowDeleted" msprop:Generator_RowEvArgName="dtProductListRowChangeEvent" msprop:Generator_RowChangedName="dtProductListRowChanged" msprop:Generator_RowClassName="dtProductListRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="p_Name" msprop:Generator_ColumnVarNameInTable="columnp_Name" msprop:Generator_ColumnPropNameInRow="p_Name" msprop:Generator_ColumnPropNameInTable="p_NameColumn" msprop:Generator_UserColumnName="p_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="type" msprop:Generator_ColumnVarNameInTable="columntype" msprop:Generator_ColumnPropNameInRow="type" msprop:Generator_ColumnPropNameInTable="typeColumn" msprop:Generator_UserColumnName="type" type="xs:string" minOccurs="0" />
+              <xs:element name="submission_unit" msprop:Generator_ColumnVarNameInTable="columnsubmission_unit" msprop:Generator_ColumnPropNameInRow="submission_unit" msprop:Generator_ColumnPropNameInTable="submission_unitColumn" msprop:Generator_UserColumnName="submission_unit" type="xs:string" minOccurs="0" />
+              <xs:element name="test_unit" msprop:Generator_ColumnVarNameInTable="columntest_unit" msprop:Generator_ColumnPropNameInRow="test_unit" msprop:Generator_ColumnPropNameInTable="test_unitColumn" msprop:Generator_UserColumnName="test_unit" type="xs:string" minOccurs="0" />
+              <xs:element name="test_time" msprop:Generator_ColumnVarNameInTable="columntest_time" msprop:Generator_ColumnPropNameInRow="test_time" msprop:Generator_ColumnPropNameInTable="test_timeColumn" msprop:Generator_UserColumnName="test_time" type="xs:string" minOccurs="0" />
+              <xs:element name="Juge_result" msprop:Generator_ColumnVarNameInTable="columnJuge_result" msprop:Generator_ColumnPropNameInRow="Juge_result" msprop:Generator_ColumnPropNameInTable="Juge_resultColumn" msprop:Generator_UserColumnName="Juge_result" type="xs:string" minOccurs="0" />
+              <xs:element name="Detect_result" msprop:Generator_ColumnVarNameInTable="columnDetect_result" msprop:Generator_ColumnPropNameInRow="Detect_result" msprop:Generator_ColumnPropNameInTable="Detect_resultColumn" msprop:Generator_UserColumnName="Detect_result" type="xs:string" minOccurs="0" />
+              <xs:element name="Absolut_result" msprop:Generator_ColumnVarNameInTable="columnAbsolut_result" msprop:Generator_ColumnPropNameInRow="Absolut_result" msprop:Generator_ColumnPropNameInTable="Absolut_resultColumn" msprop:Generator_UserColumnName="Absolut_result" type="xs:string" minOccurs="0" />
+              <xs:element name="Device_ID" msprop:Generator_ColumnVarNameInTable="columnDevice_ID" msprop:Generator_ColumnPropNameInRow="Device_ID" msprop:Generator_ColumnPropNameInTable="Device_IDColumn" msprop:Generator_UserColumnName="Device_ID" type="xs:string" minOccurs="0" />
+              <xs:element name="sum" msprop:Generator_ColumnVarNameInTable="columnsum" msprop:Generator_ColumnPropNameInRow="sum" msprop:Generator_ColumnPropNameInTable="sumColumn" msprop:Generator_UserColumnName="sum" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

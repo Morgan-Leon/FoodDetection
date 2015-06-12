@@ -1,0 +1,16 @@
+D:\食品安全检测\食品安全检测7-30\FoodSVN\FoodSVN\bin\Release\FoodGW.exe
+D:\食品安全检测\食品安全检测7-30\FoodSVN\FoodSVN\bin\Release\FoodGW.pdb
+D:\食品安全检测\食品安全检测7-30\FoodSVN\FoodSVN\bin\Release\DotRas.dll
+D:\食品安全检测\食品安全检测7-30\FoodSVN\FoodSVN\bin\Release\DotRas.xml
+D:\食品安全检测\食品安全检测7-30\FoodSVN\FoodSVN\obj\x86\Release\ResolveAssemblyReference.cache
+D:\食品安全检测\食品安全检测7-30\FoodSVN\FoodSVN\obj\x86\Release\FoodGW.exe
+D:\食品安全检测\食品安全检测7-30\FoodSVN\FoodSVN\obj\x86\Release\FoodGW.pdb
+D:\食品安全检测\FoodServer8-20\FoodSVN\FoodSVN\obj\x86\Release\FoodGW.exe
+D:\食品安全检测\FoodServer8-20\FoodSVN\FoodSVN\obj\x86\Release\FoodGW.pdb
+D:\食品安全检测\FoodServer8-20\FoodSVN\FoodSVN\bin\Release\FoodGW.exe
+D:\食品安全检测\FoodServer8-20\FoodSVN\FoodSVN\bin\Release\FoodGW.pdb
+D:\食品安全检测\FoodServer8-20\FoodSVN\FoodSVN\bin\Release\DotRas.dll
+D:\食品安全检测\FoodServer8-20\FoodSVN\FoodSVN\bin\Release\DotRas.xml
+D:\食品安全检测\FoodServer8-20\FoodSVN\FoodSVN\obj\x86\Release\ResolveAssemblyReference.cache
+E:\ISCAS\02.软件开发\07.中心站\FoodServer8-20\FoodSVN\FoodSVN\obj\x86\Release\FoodGW.exe
+E:\ISCAS\02.软件开发\07.中心站\FoodServer8-20\FoodSVN\FoodSVN\obj\x86\Release\FoodGW.pdb
